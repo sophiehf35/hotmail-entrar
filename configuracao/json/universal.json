@@ -1,0 +1,56 @@
+{
+  "id": 957143673204132,
+  "nome_do_site": "Gmail Entrar",
+  "nome_do_logo": "logo-gmail-entrar",
+  "autor_padrao": "Gmail Entrar",
+  "dominio": "https://gmailentrar.app.br",
+  "numero_artigos_pagina_home": 25,
+  "numero_artigos_pagina_categoria": 10,
+  "numero_ferramentas_pagina_categoria" : 10,
+  "permite_profissionais": 0,
+  "possui_ferramentas": 0,
+  "permite_logo_no_rodape": 0,
+  "tipo_home": "customizado",
+  "numero_profissionais_por_pagina": 0,
+  "conteudo_destaque_pagina_categoria": 1,
+  "conteudo_destaque_pagina_artigo": 1,
+  "endereco_funcao_php": "https://gerenciador.linkasites.com.br/configuracao/php/funcoes/recebe-dados/",
+  "cdn_imagens": 1,
+  "diretorio_cdn_imagens": "https://ik.imagekit.io/gmailentrar",
+  "botao_superior_direito": 0,
+  "exibe_categorias_de_artigos": 0,
+  "possui_google_analytics": 1,
+  "codigo_google_analytics": "G-BHS4Y749Y6",
+  "possui_google_adsense": 0,
+  "codigo_google_adsense": "",
+  "possui_clarity": 0,
+  "codigo_clarity": "c6por4ipyr",
+  "header": {
+    "fixo_em_todas_paginas": 1,
+    "fixo_em_algumas_paginas": 0
+  },
+  "paginas_fixas": {
+    "slugs": [
+      "home",
+      "fale-conosco",
+      "politica-de-privacidade",
+      "quem-somos"
+    ],
+    "meta_titulo_padrao": "| Confira dicas e tutoriais do email do gmail",
+    "meta_descricao_padrao": "| Gmail artigos com dicas sobre o email gmail ✔️ dicas do gmail ✔️ www gmail ✔️ artigos do gmail ✔️ noticias do gmail",
+    "artigos": {
+      "meta_titulo": "Artigos sobre o Gmail | Confira dicas e tutoriais do email do gmail",
+      "meta_descricao": "Artigos sobre o Gmail artigos com dicas sobre o email gmail ✔️ dicas do gmail ✔️ www gmail ✔️ artigos do gmail ✔️ noticias do gmail"
+    },
+    "noticias": {
+      "meta_titulo": "Notícias sobre diversas áreas de atuação - últimas notícias",
+      "meta_descricao": "Notícias sobre diversas áreas de atuação ✔️ notícias atualizadas ✔️ notícias de personalidades ✔️ notícias de qualidade ✔️ notícias do cotidiano"
+    }
+  },
+  "paginas_categorias": {
+    "slugs": [
+      "artigos",
+      "noticias"
+    ]
+  }
+}
