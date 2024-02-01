@@ -1,9 +1,9 @@
 {
   "id": 957143673204132,
-  "nome_do_site": "Gmail Entrar",
-  "nome_do_logo": "logo-gmail-entrar",
-  "autor_padrao": "Gmail Entrar",
-  "dominio": "https://gmailentrar.app.br",
+  "nome_do_site": "Hotmail Entrar",
+  "nome_do_logo": "logo-hotmail-entrar",
+  "autor_padrao": "Hotmail Entrar",
+  "dominio": "https://hotmailentrar.app.br",
   "numero_artigos_pagina_home": 25,
   "numero_artigos_pagina_categoria": 10,
   "numero_ferramentas_pagina_categoria" : 10,
@@ -16,11 +16,11 @@
   "conteudo_destaque_pagina_artigo": 1,
   "endereco_funcao_php": "https://gerenciador.linkasites.com.br/configuracao/php/funcoes/recebe-dados/",
   "cdn_imagens": 1,
-  "diretorio_cdn_imagens": "https://ik.imagekit.io/gmailentrar",
+  "diretorio_cdn_imagens": "https://ik.imagekit.io/hotmailentrar",
   "botao_superior_direito": 0,
   "exibe_categorias_de_artigos": 0,
   "possui_google_analytics": 1,
-  "codigo_google_analytics": "G-BHS4Y749Y6",
+  "codigo_google_analytics": "G-N0W8FTCPEM",
   "possui_google_adsense": 0,
   "codigo_google_adsense": "",
   "possui_clarity": 0,
@@ -49,8 +49,7 @@
   },
   "paginas_categorias": {
     "slugs": [
-      "artigos",
-      "noticias"
+      "artigos"
     ]
   }
 }
