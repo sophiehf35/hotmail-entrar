@@ -29,6 +29,10 @@
     "fixo_em_todas_paginas": 1,
     "fixo_em_algumas_paginas": 0
   },
+  "js_customizado": {
+    "paginas_artigo": [],
+    "paginas_categoria": []
+  },
   "paginas_fixas": {
     "slugs": [
       "home",
